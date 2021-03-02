@@ -54,7 +54,7 @@ class BlogPost extends Component {
             },
             body: JSON.stringify(this.state.insertArtikel)
         })
-        .then(( reesponse :Response ) => {
+        .then((Response ) => {
             this.ambilDataDariServerAPI();
         })
     }
