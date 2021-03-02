@@ -2,30 +2,18 @@
   "posts": [
     {
       "userId": 1,
-      "id": 1,
-      "title": "worksop Amazon Web Service(AWS0 untuk para dosen jurusan teknologi informasi politeknik negeri malang",
-      "body": "jumat (24/1/2020), jurusan teknologi informasi politeknik negeri malang (JTI Polinema), workshop ini diadakan untuk menunjang performa dan.."
-    },
-    {
-      "userId": 1,
       "id": 2,
       "title": "Pelaksanaan rapat hasil akhir yudisium semester ganjil 2019/2020",
       "body": "jumat (24/1/2020), jurusan teknologi informasi politeknik negeri malang (JTI Polinema), workshop ini diadakan untuk menunjang performa dan.."
     },
     {
       "userId": 1,
-      "id": 1614572405670,
-      "title": "iqbal",
-      "body": "contoh"
+      "id": 1614653980164,
+      "title": "WRI",
+      "body": "asjdakj"
     }
   ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
+  "comments": [],
   "profile": {
     "name": "typicode"
   }
