@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Air Conditioner 1",
+    "price": 1400000,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at purus pulvinar, placerat turpis ac, interdum metus. In eget massa sed enim hendrerit auctor a eget.",
+    "image": "1.jpeg"
+  },
+  {
+    "title": "Air Conditioner 2",
+    "price": 1200000,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at purus pulvinar, placerat turpis ac, interdum metus. In eget massa sed enim hendrerit auctor a eget arcu. Curabitur ac pharetra nisl, sit amet mattis dolor.",
+    "image": "2.jpeg"
+  },
+  {
+    "title": "Air Conditioner 3",
+    "price": 1450000,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at purus pulvinar, placerat turpis ac, interdum metus. In eget massa sed enim hendrerit auctor a eget arcu. Curabitur ac pharetra nisl, sit amet mattis dolor.",
+    "image": "3.jpeg"
+  },
+  {
+    "title": "Air Conditioner 4",
+    "price": 1300000,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at purus pulvinar, placerat turpis ac, interdum metus. In eget massa sed enim hendrerit auctor a eget.",
+    "image": "4.jpeg"
+  },
+  {
+    "title": "Air Conditioner 5",
+    "price": 1100000,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at purus pulvinar, placerat turpis ac, interdum metus. In eget massa sed enim hendrerit auctor a eget.",
+    "image": "5.jpeg"
+  },
+  {
+    "title": "Air Conditioner 6",
+    "price": 1000000,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at purus pulvinar, placerat turpis ac, interdum metus. In eget massa sed enim hendrerit auctor a eget.",
+    "image": "6.jpeg"
+  }
+]
